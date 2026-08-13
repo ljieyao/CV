@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
 cv:
   name: JY Liu
-  headline: Solutions Architect | Technical Lead | Hands-On Full Stack Delivery
+  headline: Solutions Architect | Technical Lead
   location: Kuala Lumpur, Malaysia
   email: ljieyao0210@gmail.com
   phone: "+60164110281"
@@ -16,26 +16,10 @@ cv:
       - bullet: Solutions architect and technical lead with 10+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
       - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
       - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
+      - bullet: All engagements delivered as independent consulting or contracting work; overlapping dates reflect concurrent client engagements.
     experience:
-      - company: Gembira Bina Sdn Bhd
-        position: Senior AI / Full Stack Engineer
-        start_date: 2026-05
-        end_date: 2026-06
-        location: Kuala Lumpur, Malaysia
-        highlights:
-          - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0), an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + **FastAPI** + SQLite with Groq LLM primary / Ollama fallback.
-          - Implemented a confidence-badged review UI (green/yellow/red thresholds), batch folder ingest CLI for headless operation, and a deterministic document processing pipeline.
-      - company: AvaEra
-        position: Senior Full Stack Developer
-        start_date: 2026-04
-        end_date: 2026-05
-        location: Remote
-        highlights:
-          - Architected and led delivery for **AvaEra's** MLM compensation platform, modernizing the legacy stack into a pnpm + **Turborepo** monorepo with **Next.js 16**, **Prisma 7**, and **PostgreSQL 18**.
-          - Engineered a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share — all admin-configurable via the `/admin/config` surface, not hardcoded.
-          - Delivered sub-products including the **DaiseE Beauty Series** compensation plan amendment and the **DaiseE Leader** inventory credit + redemption lifecycle, with end-to-end **Playwright** e2e coverage.
       - company: Vailley AI Solution Ptd Limited
-        position: Team Technical Lead
+        position: Senior Web Developer
         start_date: 2025-06
         end_date: present
         location: Singapore
@@ -93,10 +77,13 @@ cv:
           - Shipped the **Forest City Super App** production MVP (90% complete) on a Turborepo + **Next.js** + **Prisma 7** + **PostgreSQL 18** + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
           - Built **Aegis Shooting Academy (ASA)** digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
           - Delivered a corporate website and WooCommerce product catalogue for **3V Malaysia** (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme direction.
+          - Architected and led delivery for **AvaEra's** MLM compensation platform — modernized legacy stack into pnpm + **Turborepo** monorepo with **Next.js 16**, **Prisma 7**, **PostgreSQL 18**, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share.
+          - Delivered AvaEra sub-products including the **DaiseE Beauty Series** compensation plan amendment and **DaiseE Leader** inventory credit + redemption lifecycle, with end-to-end **Playwright** e2e coverage.
+          - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0) for **Gembira Bina Sdn Bhd**, an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + **FastAPI** + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
-        end_date: present
+        end_date: 2020-04
         location: Singapore
         highlights:
           - Led full-stack delivery for products including iHeartCity and Swiiipe using Angular, NestJS, GraphQL, and Firebase with AWS-based DevOps automation.
@@ -122,12 +109,6 @@ cv:
         summary: Talent platform delivered with scalable web architecture, backend APIs, GraphQL, PostgreSQL, and event-driven workflows.
         highlights:
           - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter-facing workflows.
-      - name: Buddy System Asia
-        start_date: 2016-09
-        end_date: 2024-01
-        summary: Large-scale MLM operations platform covering hierarchy management, rewards, inventory, redemption, and real-time operational workflows.
-        highlights:
-          - Architected Angular and Laravel workflows for hierarchy, rewards, redemption, inventory, and real-time operational updates at scale.
     education:
       - institution: University of Malaya
         area: Business Analytics
@@ -156,6 +137,22 @@ cv:
         details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
       - label: AI-Enabled Delivery & Multi-Agent Systems
         details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
+    languages:
+      - bullet: English — Professional
+      - bullet: Malay — Conversational to Professional
+      - bullet: Mandarin — Native
+      - bullet: Cantonese — Professional
+      - bullet: Japanese — Beginner
+      - bullet: Korean — Beginner
+    open_source:
+      - name: Tagwise
+        start_date: 2026-07
+        end_date: present
+        summary: Local-first AI file sorter that watches folders, classifies files with optional Ollama LLM, applies tags + moves, and surfaces only low-confidence items for human review.
+        highlights:
+          - Next.js UI on port 7331 with confidence thresholds for 0.85+ auto-apply
+          - OpenAI-compatible, Ollama, and heuristic fallback LLM resolution chain
+          - "Cross-platform support: macOS (Finder tags via xattr) and Linux"
 design:
   theme: classic
   page:
