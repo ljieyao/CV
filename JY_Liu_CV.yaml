@@ -17,6 +17,23 @@ cv:
       - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure, with a consistent record of taking products from discovery and architecture through production delivery.
       - bullet: Uses AI tools pragmatically to accelerate analysis, implementation, prototyping, and delivery quality while maintaining production-grade technical rigor.
     experience:
+      - company: Gembira Bina Sdn Bhd
+        position: Senior AI / Full Stack Engineer
+        start_date: 2026-05
+        end_date: present
+        location: Kuala Lumpur, Malaysia
+        highlights:
+          - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0), an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + **FastAPI** + SQLite with Groq LLM primary / Ollama fallback.
+          - Implemented a confidence-badged review UI (green/yellow/red thresholds), batch folder ingest CLI for headless operation, and a deterministic document processing pipeline.
+      - company: AvaEra
+        position: Senior Full Stack Developer
+        start_date: 2026-04
+        end_date: present
+        location: Remote
+        highlights:
+          - Architected and led delivery for **AvaEra's** MLM compensation platform, modernizing the legacy stack into a pnpm + **Turborepo** monorepo with **Next.js 16**, **Prisma 7**, and **PostgreSQL 18**.
+          - Engineered a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share — all admin-configurable via the `/admin/config` surface, not hardcoded.
+          - Delivered sub-products including the **DaiseE Beauty Series** compensation plan amendment and the **DaiseE Leader** inventory credit + redemption lifecycle, with end-to-end **Playwright** e2e coverage.
       - company: Vailley AI Solution Ptd Limited
         position: Team Technical Lead
         start_date: 2025-06
@@ -24,7 +41,8 @@ cv:
         location: Singapore
         highlights:
           - Leading cross-functional delivery for **VFS Global's** visa and consular platforms, combining solution architecture with hands-on implementation across application, integration, and data workflows.
-          - Delivered a Consular Dashboard with RBAC and ABAC controls, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for **VFS Global**.
+          - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for **VFS Global**.
+          - Built a parallelized multi-file **PDF scanner** microservice for consular document processing, with pre-warmed S3 clients, deterministic file ordering, and dedicated e2e test coverage.
       - company: Shift Markets
         position: Senior Typescript/PHP Developer
         start_date: 2023-01
@@ -72,6 +90,9 @@ cv:
         location: Kuala Lumpur, Malaysia
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
+          - Shipped the **Forest City Super App** production MVP (90% complete) on a Turborepo + **Next.js** + **Prisma 7** + **PostgreSQL 18** + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
+          - Built **Aegis Shooting Academy (ASA)** digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
+          - Delivered a corporate website and WooCommerce product catalogue for **3V Malaysia** (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme direction.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
@@ -86,6 +107,7 @@ cv:
         summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
         highlights:
           - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
+          - Expanded regional coverage in 2026 with **OmPay** (IDR qris/va/dana, MYR duitnow per FpxAPI §5.1/§8.0), NexusPay chain callbacks, and PH bank-code refresh workflows.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
         start_date: 2024-06
