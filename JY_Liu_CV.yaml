@@ -22,15 +22,15 @@ cv:
         position: Senior Web Developer
         start_date: 2025-06
         end_date: present
-        location: Singapore
+        location: Remote (Singapore)
         highlights:
-          - Leading cross-functional delivery for VFS Global's visa and consular platforms, combining solution architecture with hands-on implementation across application, integration, and data workflows.
+          - Leading cross-functional delivery for VFS Global's visa and consular platforms — combining solution architecture with hands-on implementation across application, integration, and data.
           - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for VFS Global.
       - company: Shift Markets
         position: Senior Software Engineer
         start_date: 2023-01
         end_date: present
-        location: Remote
+        location: Remote (NY, US)
         highlights:
           - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript and Next.js.
           - Engineered a Unified Payment Gateway integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
@@ -39,7 +39,7 @@ cv:
         position: Senior Web Engineer
         start_date: 2023-04
         end_date: 2024-09
-        location: Remote
+        location: Remote (California, US)
         highlights:
           - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scalability.
           - Introduced PHP linting and unit testing standards, increasing code coverage across the codebase.
@@ -48,14 +48,14 @@ cv:
         position: Senior Full Stack Developer
         start_date: 2025-02
         end_date: 2025-04
-        location: Remote
+        location: Remote (Guangzhou, China)
         highlights:
           - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
         end_date: 2023-05
-        location: Remote
+        location: Remote (KL, Malaysia)
         highlights:
           - Led end-to-end architecture and delivery for Vue.js and Laravel platforms used in regional enterprise and campaign engagements.
           - Introduced engineering standards — TDD, API governance, and backend scaling practices — for client-critical systems.
@@ -63,7 +63,7 @@ cv:
         position: Web Software Engineer
         start_date: 2022-01
         end_date: 2022-12
-        location: Remote
+        location: Remote (Singapore)
         highlights:
           - Built full-stack recruiter tooling for Superpowered using Next.js and Koa.js, with emphasis on workflow efficiency and usable internal product design.
           - Strengthened dashboard responsiveness and release quality through improved testing and deployment automation.
@@ -71,7 +71,7 @@ cv:
         position: Senior Information Technology Consultant
         start_date: 2018-09
         end_date: present
-        location: Remote
+        location: Remote (KL, Malaysia)
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
@@ -83,21 +83,21 @@ cv:
         position: Full Stack Developer
         start_date: 2018-02
         end_date: 2018-06
-        location: Remote
+        location: Remote (KL, Malaysia)
         highlights:
           - Contributed to full-stack product development on Supahands' distributed-team platform.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
         end_date: 2020-04
-        location: Remote
+        location: Remote (Singapore)
         highlights:
           - Led full-stack delivery for products including iHeartCity and Swiiipe using Angular, NestJS, GraphQL, and Firebase with AWS-based DevOps automation.
       - company: Buddy Holdings Pte Ltd
         position: Senior Information Technology Consultant
         start_date: 2016-09
         end_date: 2024-01
-        location: Remote
+        location: Remote (Singapore)
         highlights:
           - Architected and led delivery of the Buddy System Asia MLM operations platform — Angular + Laravel + MySQL + Kafka covering hierarchy management, complex point calculations, point redemption, inventory tracking, and family tree updates at scale.
           - Built intuitive agent-facing UI for tracking progress, points, and family tree structures in real time.
@@ -114,7 +114,7 @@ cv:
         end_date: 2015-12
         location: Singapore
         highlights:
-          - Contributed to full-stack web product development across digital marketing and advertising workflows.
+          - Contributed to full-stack web product development across digital marketing and advertising campaigns.
       - company: Nexstream Sdn Bhd
         position: Hybrid App Developer
         start_date: 2014-06
@@ -142,7 +142,7 @@ cv:
         end_date: 2022-12
         summary: Talent platform delivered with scalable web architecture, backend APIs, GraphQL, PostgreSQL, and event-driven workflows.
         highlights:
-          - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter-facing workflows.
+          - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter tools.
       - name: Dentrix Hub Forms (Online Form for Dentrix & HOP)
         start_date: 2023-04
         end_date: 2024-09
@@ -180,18 +180,7 @@ cv:
       - label: AI-Enabled Delivery & Multi-Agent Systems
         details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
     languages:
-      - label: English
-        details: Professional
-      - label: Malay
-        details: Professional
-      - label: Mandarin
-        details: Native
-      - label: Cantonese
-        details: Professional
-      - label: Japanese
-        details: Beginner
-      - label: Korean
-        details: Beginner
+      - bullet: "English, Malay, Cantonese: Professional · Mandarin: Native · Japanese, Korean: Beginner"
 design:
   theme: classic
   page:
@@ -213,7 +202,7 @@ design:
   section_titles:
     type: with_partial_line
   entries:
-    date_and_location_width: 3.8cm
+    date_and_location_width: 4.6cm
     degree_width: 5cm
 locale:
   language: english
