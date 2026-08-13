@@ -13,7 +13,7 @@ cv:
       username: ljieyao
   sections:
     summary:
-      - bullet: Solutions architect and technical lead with 10+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
+      - bullet: Solutions architect and technical lead with 12+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
       - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
       - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
       - bullet: All engagements delivered as independent consulting or contracting work; overlapping dates reflect concurrent client engagements.
@@ -36,14 +36,15 @@ cv:
           - Lead engineer for **CXM Direct** (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript, React, and Next.js.
           - Engineered a **Unified Payment Gateway** integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
           - Strengthened system reliability and delivery velocity through architectural cleanup, performance tuning, and production-oriented engineering practices.
-      - company: Internet Brands
+      - company: InternetBrands
         position: Senior Web Engineer
         start_date: 2023-04
         end_date: 2024-09
         location: Malaysia
         highlights:
-          - Engineered Laravel microservices and backend improvements for large-scale product workflows, strengthening response times and concurrency handling.
-          - Managed Kubernetes clusters with Helm and Rancher; optimized data processing pipelines with Kafka and PostgreSQL tuning.
+          - Maintained and improved the **Dentrix Hub Forms** (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scalability.
+          - Introduced PHP linting and unit testing standards, increasing code coverage across the codebase.
+          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable infrastructure.
       - company: MaiDaLv
         position: Senior Full Stack Developer
         start_date: 2025-02
@@ -51,6 +52,13 @@ cv:
         location: Remote
         highlights:
           - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
+      - company: Your Software Supplier
+        position: Full Stack Developer
+        start_date: 2023-08
+        end_date: 2024-01
+        location: Remote
+        highlights:
+          - Delivered full-stack web solutions for client engagements, concurrent with InternetBrands role.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
@@ -74,12 +82,19 @@ cv:
         location: Kuala Lumpur, Malaysia
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
-          - Shipped the **Forest City Super App** production MVP (90% complete) on a Turborepo + **Next.js** + **Prisma 7** + **PostgreSQL 18** + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
+          - Shipped the **Forest City Super App** production MVP (90% complete) on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
           - Built **Aegis Shooting Academy (ASA)** digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
           - Delivered a corporate website and WooCommerce product catalogue for **3V Malaysia** (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme direction.
-          - Architected and led delivery for **AvaEra's** MLM compensation platform — modernized legacy stack into pnpm + **Turborepo** monorepo with **Next.js 16**, **Prisma 7**, **PostgreSQL 18**, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share.
-          - Delivered AvaEra sub-products including the **DaiseE Beauty Series** compensation plan amendment and **DaiseE Leader** inventory credit + redemption lifecycle, with end-to-end **Playwright** e2e coverage.
-          - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0) for **Gembira Bina Sdn Bhd**, an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + **FastAPI** + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
+          - Architected and led delivery for **AvaEra's** MLM compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js 16, Prisma 7, PostgreSQL 18, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share.
+          - Delivered AvaEra sub-products including the **DaiseE Beauty Series** compensation plan amendment and **DaiseE Leader** inventory credit + redemption lifecycle, with end-to-end Playwright e2e coverage.
+          - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0) for **Gembira Bina Sdn Bhd**, an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
+      - company: Supahands
+        position: Full Stack Developer
+        start_date: 2018-02
+        end_date: 2018-06
+        location: Remote
+        highlights:
+          - Contributed to full-stack product development on Supahands' distributed-team platform.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
@@ -87,6 +102,35 @@ cv:
         location: Singapore
         highlights:
           - Led full-stack delivery for products including iHeartCity and Swiiipe using Angular, NestJS, GraphQL, and Firebase with AWS-based DevOps automation.
+      - company: Buddy Holdings Pte Ltd
+        position: Senior Information Technology Consultant
+        start_date: 2016-09
+        end_date: 2024-01
+        location: Malaysia
+        highlights:
+          - Architected and led delivery of the Buddy System Asia MLM operations platform — Angular + Laravel + MySQL + Kafka covering hierarchy management, complex point calculations, point redemption, inventory tracking, and family tree updates at scale.
+          - Built intuitive agent-facing UI for tracking progress, points, and family tree structures in real time.
+      - company: Fuji Xerox
+        position: Embedded Software Engineer
+        start_date: 2016-02
+        end_date: 2016-05
+        location: Malaysia
+        highlights:
+          - Developed embedded software for printer/scanner hardware platforms with C/C++.
+      - company: Netccentric
+        position: Software Developer
+        start_date: 2015-10
+        end_date: 2015-12
+        location: Malaysia
+        highlights:
+          - Contributed to full-stack web product development across digital marketing and advertising workflows.
+      - company: Nexstream
+        position: Hybrid App Developer
+        start_date: 2014-06
+        end_date: 2015-07
+        location: Malaysia
+        highlights:
+          - Built hybrid mobile applications bridging web technologies and native iOS/Android platforms.
     selected_projects:
       - name: Unified Payment Gateway
         start_date: 2023-01
@@ -94,7 +138,7 @@ cv:
         summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
         highlights:
           - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
-          - Expanded regional coverage in 2026 with **OmPay** (IDR qris/va/dana, MYR duitnow per FpxAPI §5.1/§8.0), NexusPay chain callbacks, and PH bank-code refresh workflows.
+          - Expanded regional coverage in 2026 with OmPay (IDR qris/va/dana, MYR duitnow per FpxAPI §5.1/§8.0), NexusPay chain callbacks, and PH bank-code refresh workflows.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
         start_date: 2024-06
@@ -109,22 +153,30 @@ cv:
         summary: Talent platform delivered with scalable web architecture, backend APIs, GraphQL, PostgreSQL, and event-driven workflows.
         highlights:
           - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter-facing workflows.
+      - name: Dentrix Hub Forms (Online Form for Dentrix & HOP)
+        start_date: 2023-04
+        end_date: 2024-09
+        summary: Dental practice patient form management platform — Laravel backend with Kubernetes deployment, PHP linting, and unit testing standards.
+        highlights:
+          - Maintained and improved the Laravel backend, strengthening response times and concurrency handling for patient form workflows.
+          - Introduced PHP linting and unit testing, increasing code coverage across the codebase.
+          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable infrastructure.
     education:
       - institution: University of Malaya
         area: Business Analytics
-        degree: MBA
+        degree: Master of Business Administration
         start_date: 2023-10
         end_date: 2026-10
         location: Kuala Lumpur, Malaysia
       - institution: University of Malaya
         area: Mobile Cloud Computing
-        degree: MCompSc
+        degree: Master of Computer Science
         start_date: 2011-01
         end_date: 2013-01
         location: Kuala Lumpur, Malaysia
       - institution: Universiti Sains Malaysia
         area: Software Engineering
-        degree: BEng
+        degree: Bachelor of Engineering
         start_date: 2008-01
         end_date: 2011-01
         location: Malaysia
@@ -139,20 +191,11 @@ cv:
         details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
     languages:
       - bullet: English — Professional
-      - bullet: Malay — Conversational to Professional
+      - bullet: Malay — Professional
       - bullet: Mandarin — Native
       - bullet: Cantonese — Professional
       - bullet: Japanese — Beginner
       - bullet: Korean — Beginner
-    open_source:
-      - name: Tagwise
-        start_date: 2026-07
-        end_date: present
-        summary: Local-first AI file sorter that watches folders, classifies files with optional Ollama LLM, applies tags + moves, and surfaces only low-confidence items for human review.
-        highlights:
-          - Next.js UI on port 7331 with confidence thresholds for 0.85+ auto-apply
-          - OpenAI-compatible, Ollama, and heuristic fallback LLM resolution chain
-          - "Cross-platform support: macOS (Finder tags via xattr) and Linux"
 design:
   theme: classic
   page:
