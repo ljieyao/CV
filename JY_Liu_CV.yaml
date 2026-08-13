@@ -26,21 +26,20 @@ cv:
         highlights:
           - Leading cross-functional delivery for VFS Global's visa and consular platforms, combining solution architecture with hands-on implementation across application, integration, and data workflows.
           - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for VFS Global.
-          - Built a parallelized multi-file PDF scanner microservice for consular document processing, with pre-warmed S3 clients, deterministic file ordering, and dedicated e2e test coverage.
       - company: Shift Markets
         position: Senior Software Engineer
         start_date: 2023-01
         end_date: present
         location: Remote
         highlights:
-          - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript, React, and Next.js.
+          - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript and Next.js.
           - Engineered a Unified Payment Gateway integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
           - Strengthened system reliability and delivery velocity through architectural cleanup, performance tuning, and production-oriented engineering practices.
       - company: InternetBrands
         position: Senior Web Engineer
         start_date: 2023-04
         end_date: 2024-09
-        location: Malaysia
+        location: Remote
         highlights:
           - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scalability.
           - Introduced PHP linting and unit testing standards, increasing code coverage across the codebase.
@@ -52,18 +51,11 @@ cv:
         location: Remote
         highlights:
           - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
-      - company: Your Software Supplier
-        position: Full Stack Developer
-        start_date: 2023-08
-        end_date: 2024-01
-        location: Remote
-        highlights:
-          - Delivered full-stack web solutions for client engagements, concurrent with InternetBrands role.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
         end_date: 2023-05
-        location: Kuala Lumpur, Malaysia
+        location: Remote
         highlights:
           - Led end-to-end architecture and delivery for Vue.js and Laravel platforms used in regional enterprise and campaign engagements.
           - Introduced engineering standards — TDD, API governance, and backend scaling practices — for client-critical systems.
@@ -79,7 +71,7 @@ cv:
         position: Senior Information Technology Consultant
         start_date: 2018-09
         end_date: present
-        location: Kuala Lumpur, Malaysia
+        location: Remote
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
@@ -98,7 +90,7 @@ cv:
         position: Information Technology Consultant
         start_date: 2016-09
         end_date: 2020-04
-        location: Singapore
+        location: Remote
         highlights:
           - Led full-stack delivery for products including iHeartCity and Swiiipe using Angular, NestJS, GraphQL, and Firebase with AWS-based DevOps automation.
       - company: Buddy Holdings Pte Ltd
@@ -137,7 +129,6 @@ cv:
         summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
         highlights:
           - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
-          - Expanded regional coverage in 2026 with OmPay (IDR qris/va/dana, MYR duitnow per FpxAPI §5.1/§8.0), NexusPay chain callbacks, and PH bank-code refresh workflows.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
         start_date: 2024-06
@@ -189,12 +180,18 @@ cv:
       - label: AI-Enabled Delivery & Multi-Agent Systems
         details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
     languages:
-      - bullet: English — Professional
-      - bullet: Malay — Professional
-      - bullet: Mandarin — Native
-      - bullet: Cantonese — Professional
-      - bullet: Japanese — Beginner
-      - bullet: Korean — Beginner
+      - label: English
+        details: Professional
+      - label: Malay
+        details: Professional
+      - label: Mandarin
+        details: Native
+      - label: Cantonese
+        details: Professional
+      - label: Japanese
+        details: Beginner
+      - label: Korean
+        details: Beginner
 design:
   theme: classic
   page:
