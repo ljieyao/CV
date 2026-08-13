@@ -16,7 +16,7 @@ cv:
       - bullet: Solutions architect and technical lead with 12+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
       - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
       - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
-      - bullet: All engagements delivered as independent consulting or contracting work; overlapping dates reflect concurrent client engagements.
+      - bullet: All work delivered as independent consulting or contracting engagements across multiple concurrent clients.
     experience:
       - company: Vailley AI Solution Ptd Limited
         position: Senior Web Developer
@@ -24,7 +24,7 @@ cv:
         end_date: present
         location: Remote (Singapore)
         highlights:
-          - Leading cross-functional delivery for VFS Global's visa and consular platforms — combining solution architecture with hands-on implementation across application, integration, and data.
+          - Leading cross-functional delivery for VFS Global's visa and consular platforms — combining solution architecture with hands-on implementation across the application stack, integration layer, and platform.
           - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for VFS Global.
       - company: Shift Markets
         position: Senior Software Engineer
@@ -32,25 +32,25 @@ cv:
         end_date: present
         location: Remote (NY, US)
         highlights:
-          - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript and Next.js.
+          - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution in TypeScript.
           - Engineered a Unified Payment Gateway integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
-          - Strengthened system reliability and delivery velocity through architectural cleanup, performance tuning, and production-oriented engineering practices.
+          - Strengthened system reliability and delivery velocity through architectural cleanup, perf tuning, and production-oriented engineering practices.
       - company: InternetBrands
         position: Senior Web Engineer
         start_date: 2023-04
         end_date: 2024-09
         location: Remote (California, US)
         highlights:
-          - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scalability.
-          - Introduced PHP linting and unit testing standards, increasing code coverage across the codebase.
-          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable infrastructure.
+          - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scale.
+          - Introduced PHP linting and unit testing standards, increasing code coverage.
+          - Managed Kubernetes deployment with Helm and Rancher for the backend.
       - company: MaiDaLv
         position: Senior Full Stack Developer
         start_date: 2025-02
         end_date: 2025-04
         location: Remote (Guangzhou, China)
         highlights:
-          - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
+          - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subs, WeChat integration, and IP-risk scan.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
@@ -74,10 +74,10 @@ cv:
         location: Remote (KL, Malaysia)
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
-          - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, admin console, and mini-app runtime.
+          - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, and admin console features for residents and partners.
           - Built Aegis Shooting Academy (ASA) digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
-          - Delivered a corporate website and WooCommerce product catalogue for 3V Malaysia (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme direction.
-          - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js 16, Prisma 7, PostgreSQL 18, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, and merchant profit share.
+          - Delivered a corporate website and WooCommerce product catalogue for 3V Malaysia (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme.
+          - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js 16, Prisma 7, PostgreSQL 18, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
           - Built and shipped HappyAI for Gembira Bina Sdn Bhd, an AI-powered tender document extraction and validation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
       - company: Supahands
         position: Full Stack Developer
@@ -85,7 +85,7 @@ cv:
         end_date: 2018-06
         location: Remote (KL, Malaysia)
         highlights:
-          - Contributed to full-stack product development on Supahands' distributed-team platform.
+          - Built full-stack features for Supahands' distributed-team product.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
@@ -100,7 +100,7 @@ cv:
         location: Remote (Singapore)
         highlights:
           - Architected and led delivery of the Buddy System Asia MLM operations platform — Angular + Laravel + MySQL + Kafka covering hierarchy management, complex point calculations, point redemption, inventory tracking, and family tree updates at scale.
-          - Built intuitive agent-facing UI for tracking progress, points, and family tree structures in real time.
+          - Built agent-facing UI for real-time tracking of progress, points, and family trees.
       - company: Fuji Xerox Pte Ltd
         position: Embedded Software Engineer
         start_date: 2016-02
@@ -114,14 +114,14 @@ cv:
         end_date: 2015-12
         location: Singapore
         highlights:
-          - Contributed to full-stack web product development across digital marketing and advertising campaigns.
+          - Built full-stack web features for digital ad campaigns.
       - company: Nexstream Sdn Bhd
         position: Hybrid App Developer
         start_date: 2014-06
         end_date: 2015-07
         location: Kuala Lumpur, Malaysia
         highlights:
-          - Built hybrid mobile applications bridging web technologies and native iOS/Android platforms.
+          - Built hybrid mobile apps for iOS and Android using web technologies.
     selected_projects:
       - name: Unified Payment Gateway
         start_date: 2023-01
@@ -149,8 +149,8 @@ cv:
         summary: Dental practice patient form management platform — Laravel backend with Kubernetes deployment, PHP linting, and unit testing standards.
         highlights:
           - Maintained and improved the Laravel backend, strengthening response times and concurrency handling for patient form workflows.
-          - Introduced PHP linting and unit testing, increasing code coverage across the codebase.
-          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable infrastructure.
+          - Introduced PHP linting and unit testing, increasing code coverage.
+          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable ops.
     education:
       - institution: University of Malaya
         area: Business Analytics
