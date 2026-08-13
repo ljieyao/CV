@@ -1,0 +1,6 @@
+# RenderCV intermediate output (regenerated on `rendercv render`)
+rendercv_output/
+
+# Cross-platform junk
+.DS_Store
+.venv/

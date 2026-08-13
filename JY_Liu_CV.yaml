@@ -1,0 +1,159 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
+cv:
+  name: JY Liu
+  headline: Solutions Architect | Technical Lead | Hands-On Full Stack Delivery
+  location: Kuala Lumpur, Malaysia
+  email: ljieyao0210@gmail.com
+  phone: "+60164110281"
+  website: https://ljieyao.com/
+  social_networks:
+    - network: LinkedIn
+      username: ljieyao
+    - network: GitHub
+      username: ljieyao
+  sections:
+    summary:
+      - bullet: Solutions architect and technical lead with 11+ years of experience delivering web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
+      - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure, with a consistent record of taking products from discovery and architecture through production delivery.
+      - bullet: Uses AI tools pragmatically to accelerate analysis, implementation, prototyping, and delivery quality while maintaining production-grade technical rigor.
+    experience:
+      - company: Vailley AI Solution Ptd Limited
+        position: Team Technical Lead
+        start_date: 2025-06
+        end_date: present
+        location: Singapore
+        highlights:
+          - Leading cross-functional delivery for **VFS Global's** visa and consular platforms, combining solution architecture with hands-on implementation across application, integration, and data workflows.
+          - Delivered a Consular Dashboard with RBAC and ABAC controls, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for **VFS Global**.
+      - company: Shift Markets
+        position: Senior Typescript/PHP Developer
+        start_date: 2023-01
+        end_date: present
+        location: Remote
+        highlights:
+          - Lead engineer for **CXM Direct** (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript, React, and Next.js.
+          - Engineered a **Unified Payment Gateway** integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
+          - Improved system reliability and delivery speed through architectural cleanup, performance tuning, and production-oriented engineering practices.
+      - company: Internet Brands
+        position: Senior Web Engineer
+        start_date: 2023-04
+        end_date: 2024-09
+        location: Malaysia
+        highlights:
+          - Engineered Laravel microservices and backend improvements for large-scale product workflows, strengthening response times and concurrency handling.
+          - Operated Kubernetes environments with Helm and Rancher and improved data processing pipelines with Kafka and PostgreSQL optimization.
+      - company: MaiDaLv
+        position: Senior Full Stack Developer
+        start_date: 2025-02
+        end_date: 2025-04
+        location: Remote
+        highlights:
+          - Delivered Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
+      - company: Cake Experiential Communications Asia
+        position: Solutions Architect
+        start_date: 2021-04
+        end_date: 2023-05
+        location: Kuala Lumpur, Malaysia
+        highlights:
+          - Owned architecture and delivery for Vue.js and Laravel platforms used in regional enterprise and campaign engagements.
+          - Introduced stronger engineering standards including TDD, API governance, and backend scaling practices for client-critical systems.
+      - company: Glints
+        position: Web Software Engineer
+        start_date: 2022-01
+        end_date: 2022-12
+        location: Remote
+        highlights:
+          - Built full-stack recruiter tooling for Superpowered using Next.js and Koa.js, with emphasis on workflow efficiency and usable internal product design.
+          - Improved dashboard responsiveness and release quality through better testing and deployment automation.
+      - company: InnoLab Global
+        position: Senior Information Technology Consultant
+        start_date: 2018-09
+        end_date: present
+        location: Kuala Lumpur, Malaysia
+        highlights:
+          - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
+      - company: The Consociation LLP
+        position: Information Technology Consultant
+        start_date: 2016-09
+        end_date: present
+        location: Singapore
+        highlights:
+          - Led full-stack delivery for products including iHeartCity and Swiiipe using Angular, NestJS, GraphQL, and Firebase with AWS-based DevOps automation.
+    selected_projects:
+      - name: Unified Payment Gateway
+        start_date: 2023-01
+        end_date: present
+        summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
+        highlights:
+          - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
+          - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
+      - name: VFS Global Consular Platform
+        start_date: 2024-06
+        end_date: present
+        summary: Mission-critical visa and consular services platform delivering digital transformation for global diplomatic missions.
+        highlights:
+          - Delivered a high-security Consular Dashboard with granular RBAC/ABAC and integrated SAP Concur for automated expense and travel management.
+          - Built a digital corporate visa platform enabling agents to manage large-scale applications with real-time tracking and ETL-backed analytics.
+      - name: Superpowered
+        start_date: 2022-01
+        end_date: 2022-12
+        summary: Talent platform delivered with scalable web architecture, backend APIs, GraphQL, PostgreSQL, and event-driven workflows.
+        highlights:
+          - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter-facing workflows.
+      - name: Buddy System Asia
+        start_date: 2016-09
+        end_date: 2024-01
+        summary: Large-scale MLM operations platform covering hierarchy management, rewards, inventory, redemption, and real-time operational workflows.
+        highlights:
+          - Architected Angular and Laravel workflows for hierarchy, rewards, redemption, inventory, and real-time operational updates at scale.
+    education:
+      - institution: University of Malaya
+        area: Business Analytics
+        degree: MBA
+        start_date: 2023-10
+        end_date: 2026-10
+        location: Kuala Lumpur, Malaysia
+      - institution: University of Malaya
+        area: Mobile Cloud Computing
+        degree: MCompSc
+        start_date: 2011-01
+        end_date: 2013-01
+        location: Kuala Lumpur, Malaysia
+      - institution: Universiti Sains Malaysia
+        area: Software Engineering
+        degree: BEng
+        start_date: 2008-01
+        end_date: 2011-01
+        location: Malaysia
+    skills:
+      - label: Full Stack Engineering
+        details: TypeScript, JavaScript, PHP, Python, Java, Laravel, ThinkPHP, React, Next.js, Angular, Vue.js, NestJS, Node.js, Spring Boot, Flutter, Ionic
+      - label: Architecture, Cloud & DevOps
+        details: Solution architecture, AWS, GCP, Firebase, Docker, Kubernetes, Helm, Rancher, CI/CD, deployment automation, integration-heavy platform delivery
+      - label: Backend, Data & Integration
+        details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
+      - label: AI-Enabled Delivery & Multi-Agent Systems
+        details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
+design:
+  theme: classic
+  page:
+    size: a4
+    top_margin: 0.6in
+    bottom_margin: 0.6in
+    left_margin: 0.65in
+    right_margin: 0.65in
+  typography:
+    line_spacing: 0.72em
+    font_size:
+      body: 9.5pt
+      name: 24pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.2em
+  header:
+    alignment: center
+  section_titles:
+    type: with_partial_line
+  entries:
+    date_and_location_width: 3.8cm
+    degree_width: 1.8cm
