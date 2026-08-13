@@ -13,14 +13,14 @@ cv:
       username: ljieyao
   sections:
     summary:
-      - bullet: Solutions architect and technical lead with 11+ years of experience delivering web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
-      - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure, with a consistent record of taking products from discovery and architecture through production delivery.
-      - bullet: Uses AI tools pragmatically to accelerate analysis, implementation, prototyping, and delivery quality while maintaining production-grade technical rigor.
+      - bullet: Solutions architect and technical lead with 10+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
+      - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
+      - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
     experience:
       - company: Gembira Bina Sdn Bhd
         position: Senior AI / Full Stack Engineer
         start_date: 2026-05
-        end_date: present
+        end_date: 2026-06
         location: Kuala Lumpur, Malaysia
         highlights:
           - Built and shipped **HappyAI** (MVP COMPLETE v1.0.0), an AI-powered tender BQ extraction, validation, and T1121 xlsx generation platform — Next.js + **FastAPI** + SQLite with Groq LLM primary / Ollama fallback.
@@ -28,7 +28,7 @@ cv:
       - company: AvaEra
         position: Senior Full Stack Developer
         start_date: 2026-04
-        end_date: present
+        end_date: 2026-05
         location: Remote
         highlights:
           - Architected and led delivery for **AvaEra's** MLM compensation platform, modernizing the legacy stack into a pnpm + **Turborepo** monorepo with **Next.js 16**, **Prisma 7**, and **PostgreSQL 18**.
@@ -44,14 +44,14 @@ cv:
           - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for **VFS Global**.
           - Built a parallelized multi-file **PDF scanner** microservice for consular document processing, with pre-warmed S3 clients, deterministic file ordering, and dedicated e2e test coverage.
       - company: Shift Markets
-        position: Senior Typescript/PHP Developer
+        position: Senior Software Engineer
         start_date: 2023-01
         end_date: present
         location: Remote
         highlights:
           - Lead engineer for **CXM Direct** (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution with TypeScript, React, and Next.js.
           - Engineered a **Unified Payment Gateway** integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
-          - Improved system reliability and delivery speed through architectural cleanup, performance tuning, and production-oriented engineering practices.
+          - Strengthened system reliability and delivery velocity through architectural cleanup, performance tuning, and production-oriented engineering practices.
       - company: Internet Brands
         position: Senior Web Engineer
         start_date: 2023-04
@@ -59,22 +59,22 @@ cv:
         location: Malaysia
         highlights:
           - Engineered Laravel microservices and backend improvements for large-scale product workflows, strengthening response times and concurrency handling.
-          - Operated Kubernetes environments with Helm and Rancher and improved data processing pipelines with Kafka and PostgreSQL optimization.
+          - Managed Kubernetes clusters with Helm and Rancher; optimized data processing pipelines with Kafka and PostgreSQL tuning.
       - company: MaiDaLv
         position: Senior Full Stack Developer
         start_date: 2025-02
         end_date: 2025-04
         location: Remote
         highlights:
-          - Delivered Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
+          - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscriptions, WeChat integration, and IP-risk analysis.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
         end_date: 2023-05
         location: Kuala Lumpur, Malaysia
         highlights:
-          - Owned architecture and delivery for Vue.js and Laravel platforms used in regional enterprise and campaign engagements.
-          - Introduced stronger engineering standards including TDD, API governance, and backend scaling practices for client-critical systems.
+          - Led end-to-end architecture and delivery for Vue.js and Laravel platforms used in regional enterprise and campaign engagements.
+          - Introduced engineering standards — TDD, API governance, and backend scaling practices — for client-critical systems.
       - company: Glints
         position: Web Software Engineer
         start_date: 2022-01
@@ -82,7 +82,7 @@ cv:
         location: Remote
         highlights:
           - Built full-stack recruiter tooling for Superpowered using Next.js and Koa.js, with emphasis on workflow efficiency and usable internal product design.
-          - Improved dashboard responsiveness and release quality through better testing and deployment automation.
+          - Strengthened dashboard responsiveness and release quality through improved testing and deployment automation.
       - company: InnoLab Global
         position: Senior Information Technology Consultant
         start_date: 2018-09
@@ -179,3 +179,24 @@ design:
   entries:
     date_and_location_width: 3.8cm
     degree_width: 1.8cm
+locale:
+  language: english
+  last_updated: Last updated in
+  month: month
+  months: months
+  year: year
+  years: years
+  present: Present
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
