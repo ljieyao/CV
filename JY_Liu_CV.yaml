@@ -180,7 +180,12 @@ cv:
       - label: AI-Enabled Delivery & Multi-Agent Systems
         details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
     languages:
-      - bullet: "English, Malay, Cantonese: Professional · Mandarin: Native · Japanese, Korean: Beginner"
+      - label: English, Malay, Cantonese
+        details: Professional
+      - label: Mandarin
+        details: Native
+      - label: Japanese, Korean
+        details: Beginner
 design:
   theme: classic
   page:
