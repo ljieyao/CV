@@ -23,8 +23,8 @@ cv:
         end_date: present
         location: Remote (Singapore)
         highlights:
-          - Leading cross-functional delivery for VFS Global's visa and consular platforms — combining solution architecture with hands-on implementation across the application stack, integration layer, and platform.
-          - Delivered a Consular Dashboard with RBAC and ABAC controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for agents, and SAP Concur to OneVasco integration for VFS Global.
+          - Led solution architecture and technical delivery across VFS Global's visa and consular platforms — translating business and security requirements into cloud-native application, integration, and data architectures while coordinating frontend, backend, and platform delivery and remaining hands-on across the stack.
+          - Delivered high-security Consular Dashboard with granular RBAC and ABAC access controls, an ADR portal with structured document submission, ETL-backed operational visibility, a digital corporate visa platform for high-volume agent workflows, and SAP Concur to OneVasco integration — supporting multi-country diplomatic operations for VFS Global.
       - company: Shift Markets
         position: Senior Software Engineer
         start_date: 2023-01
