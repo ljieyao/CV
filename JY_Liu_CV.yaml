@@ -16,9 +16,8 @@ cv:
       - bullet: Solutions architect and technical lead with 12+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
       - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
       - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
-      - bullet: All work delivered as independent consulting or contracting engagements across multiple concurrent clients.
     experience:
-      - company: Vailley AI Solution Ptd Limited
+      - company: Vailley AI Solution Pte. Ltd.
         position: Senior Web Developer
         start_date: 2025-06
         end_date: present
@@ -131,7 +130,7 @@ cv:
           - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
-        start_date: 2024-06
+        start_date: 2025-06
         end_date: present
         summary: Mission-critical visa and consular services platform delivering digital transformation for global diplomatic missions.
         highlights:
@@ -154,7 +153,7 @@ cv:
     education:
       - institution: University of Malaya
         area: Business Analytics
-        degree: Master of Business Administration
+        degree: Master of Business Administration (Expected Oct 2026)
         start_date: 2023-10
         end_date: 2026-10
         location: Kuala Lumpur, Malaysia
@@ -195,6 +194,7 @@ design:
     left_margin: 0.65in
     right_margin: 0.65in
   typography:
+    alignment: justified-with-no-hyphenation
     line_spacing: 0.72em
     font_size:
       body: 9.5pt
@@ -209,6 +209,9 @@ design:
   entries:
     date_and_location_width: 4.6cm
     degree_width: 5cm
+  templates:
+    top_note: ""
+    time_span: ""
 locale:
   language: english
   last_updated: Last updated in
