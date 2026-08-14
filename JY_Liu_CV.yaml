@@ -18,7 +18,7 @@ cv:
       - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
     experience:
       - company: Vailley AI Solution Pte. Ltd.
-        position: Senior Web Developer
+        position: Senior Web Developer (Technical Lead)
         start_date: 2025-06
         end_date: present
         location: Remote (Singapore)
@@ -73,10 +73,10 @@ cv:
         location: Remote (KL, Malaysia)
         highlights:
           - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
-          - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma 7 + PostgreSQL 18 + Auth.js v5 stack covering community, events, payments, partner portal, and admin console features for residents and partners.
+          - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma + PostgreSQL + Auth.js stack covering community, events, payments, partner portal, and admin console features for residents and partners.
           - Built Aegis Shooting Academy (ASA) digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
           - Delivered a corporate website and WooCommerce product catalogue for 3V Malaysia (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme.
-          - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js 16, Prisma 7, PostgreSQL 18, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
+          - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js, Prisma, PostgreSQL, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
           - Built and shipped HappyAI for Gembira Bina Sdn Bhd, an AI-powered tender document extraction and validation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
       - company: Supahands
         position: Full Stack Developer
@@ -177,7 +177,7 @@ cv:
       - label: Backend, Data & Integration
         details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
       - label: AI-Enabled Delivery & Multi-Agent Systems
-        details: Expert at orchestrating LLM-based agents, RAG (Retrieval-Augmented Generation), prompt engineering, and custom GPT development to accelerate product delivery while maintaining technical rigor.
+        details: Orchestrating LLM-based agents, RAG pipelines, prompt engineering, and custom GPT development to accelerate product delivery.
     languages:
       - label: English, Malay, Cantonese
         details: Professional
