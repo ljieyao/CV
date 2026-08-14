@@ -121,35 +121,6 @@ cv:
         location: Kuala Lumpur, Malaysia
         highlights:
           - Built hybrid mobile apps for iOS and Android using web technologies.
-    selected_projects:
-      - name: Unified Payment Gateway
-        start_date: 2023-01
-        end_date: present
-        summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
-        highlights:
-          - Architected and delivered a unified integration layer for 12 PSPs across 12+ regions and 17+ currencies, handling complex transaction workflows, reconciliation, and automated settlement for 235,000+ platform users.
-          - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
-      - name: VFS Global Consular Platform
-        start_date: 2025-06
-        end_date: present
-        summary: Mission-critical visa and consular services platform delivering digital transformation for global diplomatic missions.
-        highlights:
-          - Delivered a high-security Consular Dashboard with granular RBAC/ABAC and integrated SAP Concur for automated expense and travel management, supporting multi-country diplomatic operations.
-          - Built a digital corporate visa platform enabling agents to manage large-scale applications with real-time tracking and ETL-backed analytics.
-      - name: Superpowered
-        start_date: 2022-01
-        end_date: 2022-12
-        summary: Talent platform delivered with scalable web architecture, backend APIs, GraphQL, PostgreSQL, and event-driven workflows.
-        highlights:
-          - Built a responsive Next.js and Koa.js application with GraphQL integration, backend optimization, and scalable recruiter tools.
-      - name: Dentrix Hub Forms (Online Form for Dentrix & HOP)
-        start_date: 2023-04
-        end_date: 2024-09
-        summary: Dental practice patient form management platform — Laravel backend with Kubernetes deployment, PHP linting, and unit testing standards.
-        highlights:
-          - Maintained and improved the Laravel backend, strengthening response times and concurrency handling for patient form workflows.
-          - Introduced PHP linting and unit testing, growing test coverage from 0% to 90%.
-          - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable ops.
     education:
       - institution: University of Malaya
         area: Business Analytics
