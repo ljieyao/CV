@@ -97,28 +97,13 @@ cv:
         location: Remote (Singapore)
         highlights:
           - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
-          - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
-      - company: Fuji Xerox Pte Ltd
-        position: Embedded Software Engineer
-        start_date: 2016-02
-        end_date: 2016-05
-        location: Singapore
-        highlights:
-          - Developed embedded software for printer/scanner hardware platforms with C/C++.
-      - company: Netccentric Pte Ltd
-        position: Software Developer
-        start_date: 2015-10
-        end_date: 2015-12
-        location: Singapore
-        highlights:
-          - Built full-stack web features for digital ad campaigns.
-      - company: Nexstream Sdn Bhd
-        position: Hybrid App Developer
+           - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
+    earlier_experience:
+      - name: Earlier Engineering Experience
         start_date: 2014-06
-        end_date: 2015-07
-        location: Kuala Lumpur, Malaysia
-        highlights:
-          - Built hybrid mobile apps for iOS and Android using web technologies.
+        end_date: 2016-05
+        location: Singapore, Malaysia
+        summary: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
     education:
       - institution: University of Malaya
         area: Business Analytics
@@ -162,9 +147,9 @@ design:
     right_margin: 0.65in
   typography:
     alignment: justified-with-no-hyphenation
-    line_spacing: 0.72em
+    line_spacing: 0.65em
     font_size:
-      body: 9.5pt
+      body: 9pt
       name: 24pt
       headline: 10pt
       connections: 9pt
