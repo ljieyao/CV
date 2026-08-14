@@ -13,9 +13,9 @@ cv:
       username: ljieyao
   sections:
     summary:
-      - bullet: Solutions architect and technical lead with 12+ years shipping web, mobile, cloud, and integration-heavy platforms across fintech, SaaS, banking, consular, and enterprise environments.
-      - bullet: Hands-on across frontend, backend, APIs, DevOps, and cloud infrastructure — consistently taking products from discovery and architecture through production delivery.
-      - bullet: Leverages AI tooling pragmatically across the SDLC — analysis, implementation, prototyping, and quality assurance — while building AI-native products end-to-end and maintaining production-grade technical rigor.
+      - bullet: Solutions Architect and Technical Lead with 12+ years designing and delivering enterprise, fintech, SaaS, and integration-heavy platforms across Asia and the US.
+      - bullet: Combines hands-on full-stack engineering with architecture ownership across cloud infrastructure, APIs, distributed systems, payments, and DevOps — proven delivery across regulated and mission-critical environments, including global payment infrastructure supporting 235,000+ users and consular platforms for global diplomatic clients.
+      - bullet: Recent focus on AI-enabled product engineering and agentic development workflows, complemented by an MBA in Business Analytics from University of Malaya.
     experience:
       - company: Vailley AI Solution Pte. Ltd.
         position: Senior Web Developer (Technical Lead)
