@@ -45,8 +45,8 @@ cv:
       - company: MaiDaLv
         position: Senior Full Stack Developer
         start_date: 2025-02
-        end_date: 2025-04
-        location: Remote (Guangzhou, China)
+        end_date: 2025-05
+        location: Remote (GZ, China)
         highlights:
           - Delivered Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscription management, WeChat payment integration, and IP-risk scanning.
       - company: Cake Experiential Communications Asia
@@ -96,7 +96,7 @@ cv:
         location: Remote (Singapore)
         highlights:
           - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
-            - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
+          - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
     earlier_experience:
       - bullet: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
     education:
