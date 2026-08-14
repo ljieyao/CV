@@ -15,7 +15,7 @@ cv:
     summary:
       - bullet: Solutions Architect and Technical Lead with 12+ years designing and delivering enterprise, fintech, SaaS, and integration-heavy platforms across Asia and the US.
       - bullet: Combines hands-on full-stack engineering with architecture ownership across cloud infrastructure, APIs, distributed systems, payments, and DevOps — proven delivery across regulated and mission-critical environments, including global payment infrastructure supporting 235,000+ users and consular platforms for global diplomatic clients.
-      - bullet: Recent focus on AI-enabled product engineering and agentic development workflows, complemented by an MBA in Business Analytics from University of Malaya.
+      - bullet: Recent focus on AI-enabled product engineering and agentic development workflows, complemented by ongoing MBA studies in Business Analytics at the University of Malaya.
     experience:
       - company: Vailley AI Solution Pte. Ltd.
         position: Senior Web Developer (Technical Lead)
@@ -49,7 +49,7 @@ cv:
         end_date: 2025-04
         location: Remote (Guangzhou, China)
         highlights:
-          - Built Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subs, WeChat integration, and IP-risk scan.
+          - Delivered Spring Boot, UniApp, Vue.js, and Python-based product workflows covering subscription management, WeChat payment integration, and IP-risk scanning.
       - company: Cake Experiential Communications Asia
         position: Solutions Architect
         start_date: 2021-04
@@ -72,7 +72,7 @@ cv:
         end_date: present
         location: Remote (KL, Malaysia)
         highlights:
-          - Delivered cross-platform products across mobile (Ionic, Flutter, React Native), web (Angular, React, Next.js, Vue.js), and backend (Laravel, NestJS, Spring Boot, Node.js, Java, Python) stacks on cloud infrastructure (AWS, Firebase, GCP) for multiple concurrent client engagements, while automating cloud delivery workflows and mentoring junior developers.
+          - Delivered cross-platform products across mobile (Ionic, Flutter, React Native), web (Angular, React, Next.js, Vue.js), and backend (Laravel, NestJS, Spring Boot, Node.js, Java, Python) stacks on cloud infrastructure (AWS, Firebase, GCP) across a diverse client portfolio, while automating cloud delivery workflows and mentoring junior developers.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma + PostgreSQL + Auth.js stack covering community, events, payments, partner portal, and admin console features for residents and partners.
           - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js, Prisma, PostgreSQL, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
           - Built and shipped HappyAI for Gembira Bina Sdn Bhd, an AI-powered tender document extraction and validation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
@@ -82,7 +82,7 @@ cv:
         end_date: 2018-06
         location: Remote (KL, Malaysia)
         highlights:
-          - Built full-stack features for Supahands' distributed-team product.
+          - Built full-stack features for Supahands' distributed-team platform supporting crowdsourced microtask workflows.
       - company: The Consociation LLP
         position: Information Technology Consultant
         start_date: 2016-09
@@ -99,10 +99,7 @@ cv:
           - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
            - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
     earlier_experience:
-      - name: Earlier Engineering Experience
-        start_date: 2014-06
-        end_date: 2016-05
-        location: Singapore, Malaysia
+      - name: Roles
         summary: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
     education:
       - institution: University of Malaya
@@ -130,8 +127,8 @@ cv:
         details: Solution architecture, AWS, GCP, Firebase, Docker, Kubernetes, Helm, Rancher, CI/CD, deployment automation, integration-heavy platform delivery
       - label: Backend, Data & Integration
         details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
-      - label: AI-Enabled Delivery & Multi-Agent Systems
-        details: Orchestrating LLM-based agents, RAG pipelines, prompt engineering, and custom GPT development to accelerate product delivery.
+      - label: AI Engineering & Agentic Systems
+        details: LLM orchestration, RAG pipelines, structured extraction, prompt engineering, custom GPTs, Groq, Ollama
     languages:
       - label: English, Malay, Cantonese
         details: Professional
@@ -146,7 +143,7 @@ design:
     left_margin: 0.65in
     right_margin: 0.65in
   typography:
-    alignment: justified-with-no-hyphenation
+    alignment: left
     line_spacing: 0.65em
     font_size:
       body: 9pt
