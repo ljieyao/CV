@@ -32,7 +32,7 @@ cv:
         location: Remote (NY, US)
         highlights:
           - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution in TypeScript.
-          - Engineered a Unified Payment Gateway integrating 12 PSPs across 12+ regions and 17+ currencies, unifying fragmented payment workflows into a single scalable infrastructure.
+          - Engineered a Unified Payment Gateway integrating 12 PSPs across 12+ regions and 17+ currencies, supporting 235,000+ registered users across CXMD (Singapore) and CXMT (Tokyo) trading platforms.
           - Strengthened system reliability and delivery velocity through architectural cleanup, perf tuning, and production-oriented engineering practices.
       - company: InternetBrands
         position: Senior Web Engineer
@@ -127,7 +127,7 @@ cv:
         end_date: present
         summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
         highlights:
-          - Architected and delivered a unified integration layer for 12 PSPs across 12+ regions and 17+ currencies, handling complex transaction workflows, reconciliation, and automated settlement.
+          - Architected and delivered a unified integration layer for 12 PSPs across 12+ regions and 17+ currencies, handling complex transaction workflows, reconciliation, and automated settlement for 235,000+ platform users.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
         start_date: 2025-06
