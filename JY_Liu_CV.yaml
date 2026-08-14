@@ -33,7 +33,6 @@ cv:
         highlights:
           - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution in TypeScript.
           - Engineered a Unified Payment Gateway integrating 12 PSPs across 12+ regions and 17+ currencies, supporting 235,000+ registered users across CXMD (Singapore) and CXMT (Tokyo) trading platforms.
-          - Strengthened system reliability and delivery velocity through architectural cleanup, perf tuning, and production-oriented engineering practices.
       - company: InternetBrands
         position: Senior Web Engineer
         start_date: 2023-04
@@ -72,7 +71,7 @@ cv:
         end_date: present
         location: Remote (KL, Malaysia)
         highlights:
-          - Delivered cross-platform products across mobile (Ionic, Flutter, React Native), web (Angular, React, Next.js, Vue.js), and backend (Laravel, NestJS, Spring Boot, Node.js, Java, Python) stacks on cloud infrastructure (AWS, Firebase, GCP) across a diverse client portfolio, while automating cloud delivery workflows and mentoring junior developers.
+          - Led architecture, delivery, and technical mentoring across mobile, web, backend, and cloud engagements for a diverse client portfolio — building scalable solutions while developing junior engineering capability.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma + PostgreSQL + Auth.js stack covering community, events, payments, partner portal, and admin console features for residents and partners.
           - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js, Prisma, PostgreSQL, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
           - Built and shipped HappyAI for Gembira Bina Sdn Bhd, an AI-powered tender document extraction and validation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
@@ -99,8 +98,7 @@ cv:
           - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
             - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
     earlier_experience:
-      - name: Roles
-        summary: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
+      - bullet: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
     education:
       - institution: University of Malaya
         area: Business Analytics
@@ -128,7 +126,7 @@ cv:
       - label: Backend, Data & Integration
         details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
       - label: AI Engineering & Agentic Systems
-        details: LLM orchestration, RAG pipelines, structured extraction, prompt engineering, custom GPTs, Groq, Ollama, OpenAI, OpenCode, Claude, Gemini
+        details: LLM orchestration, RAG pipelines, structured extraction, prompt engineering, custom GPTs, Groq, Ollama, OpenAI APIs
     languages:
       - label: English, Malay, Cantonese
         details: Professional
