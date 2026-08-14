@@ -72,10 +72,8 @@ cv:
         end_date: present
         location: Remote (KL, Malaysia)
         highlights:
-          - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers across multiple client engagements.
+          - Delivered cross-platform products across mobile (Ionic, Flutter, React Native), web (Angular, React, Next.js, Vue.js), and backend (Laravel, NestJS, Spring Boot, Node.js, Java, Python) stacks on cloud infrastructure (AWS, Firebase, GCP) for multiple concurrent client engagements, while automating cloud delivery workflows and mentoring junior developers.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma + PostgreSQL + Auth.js stack covering community, events, payments, partner portal, and admin console features for residents and partners.
-          - Built Aegis Shooting Academy (ASA) digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
-          - Delivered a corporate website and WooCommerce product catalogue for 3V Malaysia (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme.
           - Architected and led delivery for AvaEra's compensation platform — modernized legacy stack into pnpm + Turborepo monorepo with Next.js, Prisma, PostgreSQL, and a 15-service reward engine covering direct sponsor, team bonus, pool sharing, profit distribution, and merchant commissions.
           - Built and shipped HappyAI for Gembira Bina Sdn Bhd, an AI-powered tender document extraction and validation platform — Next.js + FastAPI + SQLite with Groq LLM primary / Ollama fallback, confidence-badged review UI, and deterministic batch ingest pipeline.
       - company: Supahands
