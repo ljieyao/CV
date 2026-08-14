@@ -32,7 +32,7 @@ cv:
         location: Remote (NY, US)
         highlights:
           - Lead engineer for CXM Direct (worldwide multi-asset trading platform) and CRM initiatives, owning backend delivery with ThinkPHP and frontend execution in TypeScript.
-          - Engineered a Unified Payment Gateway integrating 20+ global Payment Service Providers (PSPs), unifying fragmented payment workflows into a single scalable infrastructure.
+          - Engineered a Unified Payment Gateway integrating 12 PSPs across 12+ regions and 17+ currencies, unifying fragmented payment workflows into a single scalable infrastructure.
           - Strengthened system reliability and delivery velocity through architectural cleanup, perf tuning, and production-oriented engineering practices.
       - company: InternetBrands
         position: Senior Web Engineer
@@ -41,7 +41,7 @@ cv:
         location: Remote (California, US)
         highlights:
           - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scale.
-          - Introduced PHP linting and unit testing standards, increasing code coverage.
+          - Introduced PHP linting and unit testing standards, growing test coverage from 0% to 90% across the codebase.
           - Managed Kubernetes deployment with Helm and Rancher for the backend.
       - company: MaiDaLv
         position: Senior Full Stack Developer
@@ -72,7 +72,7 @@ cv:
         end_date: present
         location: Remote (KL, Malaysia)
         highlights:
-          - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers.
+          - Delivered cross-platform products across Angular, Ionic, Flutter, Firebase, and AWS while automating cloud delivery workflows and mentoring junior developers across multiple client engagements.
           - Shipped the Forest City Super App on a Turborepo + Next.js + Prisma + PostgreSQL + Auth.js stack covering community, events, payments, partner portal, and admin console features for residents and partners.
           - Built Aegis Shooting Academy (ASA) digital platform end-to-end with NestJS + Prisma backend, Next.js admin dashboard, and React Native/Expo mobile application.
           - Delivered a corporate website and WooCommerce product catalogue for 3V Malaysia (furniture manufacturer) using Docker Compose with a premium Apple-inspired theme.
@@ -98,8 +98,8 @@ cv:
         end_date: 2024-01
         location: Remote (Singapore)
         highlights:
-          - Architected and led delivery of the Buddy System Asia MLM operations platform — Angular + Laravel + MySQL + Kafka covering hierarchy management, complex point calculations, point redemption, inventory tracking, and family tree updates at scale.
-          - Built agent-facing UI for real-time tracking of progress, points, and family trees.
+          - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
+          - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
       - company: Fuji Xerox Pte Ltd
         position: Embedded Software Engineer
         start_date: 2016-02
@@ -127,14 +127,14 @@ cv:
         end_date: present
         summary: Specialized payment infrastructure unifying 20+ global Payment Service Providers (PSPs) into a single, high-concurrency API layer.
         highlights:
-          - Architected and delivered a unified integration layer for diverse PSPs, handling complex transaction workflows, reconciliation, and automated settlement.
+          - Architected and delivered a unified integration layer for 12 PSPs across 12+ regions and 17+ currencies, handling complex transaction workflows, reconciliation, and automated settlement.
           - Secured financial operations through strict audit logging, sensitive data isolation, and robust error-recovery mechanisms.
       - name: VFS Global Consular Platform
         start_date: 2025-06
         end_date: present
         summary: Mission-critical visa and consular services platform delivering digital transformation for global diplomatic missions.
         highlights:
-          - Delivered a high-security Consular Dashboard with granular RBAC/ABAC and integrated SAP Concur for automated expense and travel management.
+          - Delivered a high-security Consular Dashboard with granular RBAC/ABAC and integrated SAP Concur for automated expense and travel management, supporting multi-country diplomatic operations.
           - Built a digital corporate visa platform enabling agents to manage large-scale applications with real-time tracking and ETL-backed analytics.
       - name: Superpowered
         start_date: 2022-01
@@ -148,7 +148,7 @@ cv:
         summary: Dental practice patient form management platform — Laravel backend with Kubernetes deployment, PHP linting, and unit testing standards.
         highlights:
           - Maintained and improved the Laravel backend, strengthening response times and concurrency handling for patient form workflows.
-          - Introduced PHP linting and unit testing, increasing code coverage.
+          - Introduced PHP linting and unit testing, growing test coverage from 0% to 90%.
           - Managed Kubernetes deployment with Helm and Rancher for scalable, reliable ops.
     education:
       - institution: University of Malaya
