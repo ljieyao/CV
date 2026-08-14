@@ -38,7 +38,7 @@ cv:
         position: Senior Web Engineer
         start_date: 2023-04
         end_date: 2024-09
-        location: Remote (California, US)
+        location: Remote (CA, US)
         highlights:
           - Maintained and improved the Dentrix Hub Forms (Online Form for Dentrix & HOP) Laravel backend — patient form management platform for dental practices, focused on reliability, performance, and scale.
           - Introduced PHP linting and unit testing standards, growing test coverage from 0% to 90% across the codebase.
@@ -97,7 +97,7 @@ cv:
         location: Remote (Singapore)
         highlights:
           - Architected and led delivery of the Buddy System Asia MLM platform serving 2,000+ active members across Singapore, Malaysia, China, and Indonesia — Angular + Laravel + MySQL + Kafka covering hierarchy management, point calculations, point redemption, inventory tracking, and family tree updates at scale.
-           - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
+            - Built agent-facing UI for real-time tracking of progress, points, and family trees across the multi-country user base.
     earlier_experience:
       - name: Roles
         summary: Nexstream Sdn Bhd (Hybrid App Developer, 2014–2015, KL) · Netccentric Pte Ltd (Software Developer, 2015, Singapore) · Fuji Xerox Pte Ltd (Embedded Software Engineer, 2016, Singapore)
@@ -128,7 +128,7 @@ cv:
       - label: Backend, Data & Integration
         details: PostgreSQL, MySQL, Redis, Apache Kafka, GraphQL, REST APIs, microservices, ETL workflows, event-driven and serverless systems
       - label: AI Engineering & Agentic Systems
-        details: LLM orchestration, RAG pipelines, structured extraction, prompt engineering, custom GPTs, Groq, Ollama
+        details: LLM orchestration, RAG pipelines, structured extraction, prompt engineering, custom GPTs, Groq, Ollama, OpenAI, OpenCode, Claude, Gemini
     languages:
       - label: English, Malay, Cantonese
         details: Professional
