@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
 cv:
   name: JY Liu
-  headline: Solutions Architect | Technical Lead
+  headline: Solutions Architect | Technical Lead | Senior Full-Stack Engineer
   location: Kuala Lumpur, Malaysia
   email: ljieyao0210@gmail.com
   phone: "+60164110281"
@@ -183,8 +183,6 @@ cv:
         details: Professional
       - label: Mandarin
         details: Native
-      - label: Japanese, Korean
-        details: Beginner
 design:
   theme: classic
   page:
